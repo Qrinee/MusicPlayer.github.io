@@ -1,0 +1,14 @@
+{
+  "name": "musicplayer",
+  "version": "0.0.1",
+  "description": "Odtwarzacz muzyki oparty na grid",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krystian Niemczyk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
